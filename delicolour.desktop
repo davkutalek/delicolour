@@ -1,0 +1,11 @@
+# actual file at ~/.local/share/applications/
+[Desktop Entry]
+Version=1.0
+Name=delicolour
+Comment=pip color picker tool
+Exec=delicolour
+Icon=./agave.svg
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+StartupNotify=true
